@@ -34,7 +34,19 @@
 
 ## Order Lines
 
+
+
 ##### Special Programs
+
+why does it randomly select the state it goes to?
+
+  + golf & Lic Tennis 144
+  + Golf - Tennis 288 pricing
+  + Screen Print 48-143-Golf-Corp-Ten
+  + Screen Print 144-Golf-Corp-Ten
+  + Wholesale
+
+
 
 
 ##### How to Copy Sizes
