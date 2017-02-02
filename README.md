@@ -16,14 +16,26 @@
  - [ ] it would be ussefull to add a search field and the product shows up like an index
 
 ##### Selected Products Table
-  - [ ] if you double click on a product it moved over to the order table
+
+++ BUGS ++
+
+  - [ ] if you double click on a product it moves over to the order table
   - [ ] if you click on the checkbox and select add it moves over to the order table
+  - [ ] if a style is already selected and moved over to the order table. and you selecte it again. it adds it a second time.
+ 
+ ++ INFORMATION ++
+ 
   - [ ] whatever row/product you click on it shows the available sizes and how many in the table below
+  
+  
 
 ##### Add Style/Color
  - [ ] it would be a nice feature to add that once something is in the final add to order table, you can hover over that product and a thumbnail of the image shows up if you are one a tablet or above. too much for a phone preview though.
 
 ## Order Lines
+
+##### Special Programs
+
 
 ##### How to Copy Sizes
 
