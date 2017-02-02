@@ -34,22 +34,35 @@
 
 ## Order Lines
 
+- [ ] embroidery code E00007
 
+##### Special & Special Programs
 
-##### Special Programs
-
-why does it randomly select the state it goes to?
-
+  + FINAL MARKDOWN SPG 2016
+  + Antigua Attic
+  + Golf Outerwear 2016 Fall
+  + Slazenger Free Ball - Hat Prm
+  + Evet Planner for Spring 2017
+  
   + golf & Lic Tennis 144
   + Golf - Tennis 288 pricing
+  
+  + Screen Print 48-143-Lic
   + Screen Print 48-143-Golf-Corp-Ten
   + Screen Print 144-Golf-Corp-Ten
   + Wholesale
 
-
-
-
 ##### How to Copy Sizes
+
+1. from the row you have filled out with the sizes you need.
+2. select the checkboxes next to the rows you'd like to have the same size amount.
+3. click on the "size" button from the row with the inital size amounts needed.
+
+*** If the products are not similar it will not copy down to the row below. There should be an error field or some kind of notification that this isn't possible to do.
+
+
+
+
 
 ##### How to Add embroidery
 
