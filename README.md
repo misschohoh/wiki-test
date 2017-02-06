@@ -12,7 +12,9 @@
 ## Select Products
 
 ##### Add Style/Color
- - [ ] you can't just in the the style with the color. it can only be the style number
+ - [x] you can't just in the the style with the color. it can only be the style number
+  ---- FIXED add style and color number all together.
+  
  - [ ] it would be ussefull to add a search field and the product shows up like an index
 
 ##### Selected Products Table
