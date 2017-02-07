@@ -40,14 +40,20 @@
 
 ##### Special & Special Programs
 
+These are Programs/Special pricing we have that Marketing comes up with.  They are specific to the type of customer.
+
   + FINAL MARKDOWN SPG 2016
   + Antigua Attic
   + Golf Outerwear 2016 Fall
   + Slazenger Free Ball - Hat Prm
   + Evet Planner for Spring 2017
   
+   Price list specific to customer(s)
+   
   + golf & Lic Tennis 144
   + Golf - Tennis 288 pricing
+  
+  These are Programs/Special pricing we have that Marketing comes up with.  They are specific to the type of customer.
   
   + Screen Print 48-143-Lic
   + Screen Print 48-143-Golf-Corp-Ten
@@ -62,17 +68,8 @@
 
 *** If the products are not similar it will not copy down to the row below. There should be an error field or some kind of notification that this isn't possible to do.
 
-
-
-
-
 ##### How to Add embroidery
 
 ##### How to delete embroidery
 
-## Tables
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+TOTAL QUANTITY | TOTAL AMOUNT | Why is there a total of each size at the bottom
